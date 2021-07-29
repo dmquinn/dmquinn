@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**dmquinn/dmquinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="self.svg" width="80%"/>
 
-Here are some ideas to get you started:
+<h6>I like working with:</h6>
+  <ul>
+  <li><h6>React</h6></li>
+    <li><h6>CSS/Sass</h6></li>
+    <li><h6>Express</h6></li>
+    <li><h6>Node</h6></li>
+    <li><h6>MongoDB</h6></li>
+    <li><h6>HTML</h6></li>
+    <li><h6>Bootstrap/React Bootstrap</h6></li>
+    <li><h6>Ejs</h6></li>
+    <li><h6>Git</h6></li>
+  
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/dm-quinn/">Linkedin</a>
