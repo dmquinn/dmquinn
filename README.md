@@ -1,6 +1,6 @@
 
 <img src="self.svg" width="80%"/>
-<h3>Check out my latest project - a <a href="https://dmquinn.github.io/portfolio-netflix-ui/" target="_blank">portfolio page.</a>  It's still a work in progress but it's a good place to see all my projects in action!</h3>
+<h3>Check out my latest project - a <a href="https://dmquinn.github.io/portfolio-netflix-ui/" target="_blank" rel="noreferrer">portfolio page.</a>  It's still a work in progress but it's a good place to see all my projects in action!</h3>
 <br/>
 <a href="https://dmquinn.github.io/portfolio-netflix-ui/" target="_blank">
   
